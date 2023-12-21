@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>1. Kubus</h2>
-        <h4>Rumus</h4>
+        <h2 class="font-weight-bold">1. Kubus</h2>
+        <h4 class="font-weight-bold">Rumus</h4>
         <strong>Luas permukaan kubus</strong>
         <div class="ml-5">
             Lp = 6 × s × s <br>
@@ -33,7 +33,7 @@
                     </td>
                 </tr>
             </table>
-            <a href="index.php" class="pb-5"><button class="btn btn-dark font-weight-bold text-black" >Kembali Ke Website Utama</button></a>
+            <a href="index.php" class="pb-5"><button class="btn btn-dark font-weight-bold text-white" >Kembali Ke Website Utama</button></a>
         </div>
 	</div>
 

@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>2. Balok</h2>
-        <h4>Pengertian</h4>
+        <h2 class="font-weight-bold">2. Balok</h2>
+        <h4 class="font-weight-bold">Pengertian</h4>
         <p>
         Balok adalah bangun ruang yang memiliki sisi berbentuk persegi panjang dan persegi.
         </p>

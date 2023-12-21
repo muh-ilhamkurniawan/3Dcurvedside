@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>3. Prisma</h2>
-        <h4>Rumus</h4>
+        <h2 class="font-weight-bold">3. Prisma</h2>
+        <h4 class="font-weight-bold">Rumus</h4>
         <strong>Luas Permukaan prisma</strong>
         <div class="ml-5">
             Lp = 2 × ((p×l) + (p×t) + (l×t))

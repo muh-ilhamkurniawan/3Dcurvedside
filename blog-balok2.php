@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>2. Balok</h2>
-        <h4>Ciri-ciri kubus</h4>
+        <h2 class="font-weight-bold">2. Balok</h2>
+        <h4 class="font-weight-bold">Ciri-ciri kubus</h4>
         <ul>
             <li>Jumlah bidang sisi pada balok ada 6, 4 sisi berbentuk persegi panjang dan 2 sisi berbentuk kotak dan sejajar</li>
             <li>Mempunyai 12 rusuk, 8 pasang rusuk merupakan sama panjang</li>

@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>3. Prisma</h2>
-        <h4>Ciri-ciri prisma</h4>
+        <h2 class="font-weight-bold">3. Prisma</h2>
+        <h4 class="font-weight-bold">Ciri-ciri prisma</h4>
         <ul>
             <li>Memiliki 5 sisi (sisi alas, sisi atas, dan 3 sisi tegak)</li>
             <li>Sisi alas dan sisi atas berbentuk segitiga berukuran sama</li>

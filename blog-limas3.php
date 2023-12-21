@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>4. Limas</h2>
-        <h4>Rumus</h4>
+        <h2 class="font-weight-bold">4. Limas</h2>
+        <h4 class="font-weight-bold">Rumus</h4>
         <strong>Luas permukaan Limas</strong>
         <div class="ml-5">
             Lp = luas alas + (n x luas segitiga)

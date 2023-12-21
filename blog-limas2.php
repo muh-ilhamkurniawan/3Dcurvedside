@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container ">
-        <h2>4. Limas</h2>
-        <h4>Ciri-ciri Limas</h4>
+        <h2 class="font-weight-bold">4. Limas</h2>
+        <h4 class="font-weight-bold">Ciri-ciri Limas</h4>
         <p>
         Bangun ruang Limas memiliki berbagai macam bentuk berdasarkan bentuk alasnya, yaitu :
         </p>

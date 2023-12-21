@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>3. Prisma</h2>
-        <h4>Pengertian</h4>
+        <h2 class="font-weight-bold">3. Prisma</h2>
+        <h4 class="font-weight-bold">Pengertian</h4>
         <p>
         Prisma adalah suatu bangun ruang yang dibatasi oleh dua bidang sejajar dan kongruen dan beberapa bidang lain yang berpotongan menurut garis-garis yang sejajar.
         </p>

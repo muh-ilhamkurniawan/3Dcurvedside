@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>2. Balok</h2>
-        <h4>Rumus</h4>
+        <h2 class="font-weight-bold">2. Balok</h2>
+        <h4 class="font-weight-bold">Rumus</h4>
         <strong>Luas permukaan balok</strong>
         <div class="ml-5">
             Lp = 2 × ((p×l) + (p×t) + (l×t))

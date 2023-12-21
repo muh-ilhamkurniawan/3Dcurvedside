@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>1. Kubus</h2>
-        <h4>Ciri-ciri kubus</h4>
+        <h2 class="font-weight-bold">1. Kubus</h2>
+        <h4 class="font-weight-bold">Ciri-ciri kubus</h4>
         <ul>
             <li>Jumlah bidang sisi pada kubus ada 6 yang berbentuk persegi dengan ukuran panjang dan luas yang sama</li>
             <li>Mempunyai 8 titik sudut</li>
@@ -30,7 +30,7 @@
                     </td>
                 </tr>
             </table>
-            <a href="index.php" class="pb-5"><button class="btn btn-dark font-weight-bold text-black" >Kembali Ke Website Utama</button></a>
+            <a href="index.php" class="pb-5"><button class="btn btn-dark font-weight-bold text-white" >Kembali Ke Website Utama</button></a>
         </div>
 	</div>
 

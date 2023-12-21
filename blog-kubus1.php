@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>1. Kubus</h2>
-        <h4>Pengertian</h4>
+        <h2 class="font-weight-bold">1. Kubus</h2>
+        <h4 class="font-weight-bold">Pengertian</h4>
         <p>
         Kubus adalah bangun ruang yang semua sisinya berbentuk persegi dan memiliki rusuk-rusuk yang sama panjang.
         </p>
@@ -25,7 +25,7 @@
                     </td>
                 </tr>
             </table>
-            <a href="index.php" class="pb-5"><button class="btn btn-dark font-weight-bold text-black" >Kembali Ke Website Utama</button></a>
+            <a href="index.php" class="pb-5"><button class="btn btn-dark font-weight-bold text-white" >Kembali Ke Website Utama</button></a>
         </div>
 	</div>
 

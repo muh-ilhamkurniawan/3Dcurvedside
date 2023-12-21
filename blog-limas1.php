@@ -2,8 +2,8 @@
 	include "blog-navbar.php";
 ?>
 	<div class="container">
-        <h2>4. Limas</h2>
-        <h4>Pengertian</h4>
+        <h2 class="font-weight-bold">4. Limas</h2>
+        <h4 class="font-weight-bold">Pengertian</h4>
         <p>
         Limas adalah suatu bangun ruang yang dibatasi oleh segitiga-segitiga yang bertemu pada satu titik (atas) dan oleh alas suatu segi banyak <br>
         Memberi nama limas disesuaikan dengan bentuk alasnya
