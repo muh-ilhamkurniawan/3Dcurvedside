@@ -13,9 +13,10 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	
 	<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/custom-style.css">
 
 	</head>
-	<body>
+	<body class="custom-background-web">
 	<section class="ftco-section">		
 		<div class="container-fluid px-md-5">
 			<div class="row justify-content-between">
@@ -39,11 +40,8 @@
 				</div>
 			</div>
 		</div>
-		<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-            <div class="container-fluid">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="fa fa-bars"></span> Menu
-            </button>
+		<nav class="navbar navbar-expand-lg ftco_navbar ftco-navbar-light" id="ftco-navbar">
+            <div class="container-fluid bg-dark ">
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>

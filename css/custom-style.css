@@ -4,4 +4,9 @@ body.my-custom-background {
 body.my-custom-color {
     color: #e4dac2;
   }
-  
+body.custom-background-web {
+    background-color: #e8e6d9;
+  }
+body.custom-color2 {
+  background-color: #c4bdac !important;
+  }
